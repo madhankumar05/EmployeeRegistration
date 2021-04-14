@@ -68,16 +68,16 @@
   <ItemGroup>
     <Content Include="packages.config" />
     <Content Include="Registration.Master" />
-    <Content Include="Asserts\bootstrap-4.3.1-dist\css\bootstrap-grid.css.map" />
-    <Content Include="Asserts\bootstrap-4.3.1-dist\css\bootstrap-grid.min.css.map" />
-    <Content Include="Asserts\bootstrap-4.3.1-dist\css\bootstrap-reboot.css.map" />
-    <Content Include="Asserts\bootstrap-4.3.1-dist\css\bootstrap-reboot.min.css.map" />
-    <Content Include="Asserts\bootstrap-4.3.1-dist\css\bootstrap.css.map" />
-    <Content Include="Asserts\bootstrap-4.3.1-dist\css\bootstrap.min.css.map" />
-    <Content Include="Asserts\bootstrap-4.3.1-dist\js\bootstrap.bundle.js.map" />
-    <Content Include="Asserts\bootstrap-4.3.1-dist\js\bootstrap.bundle.min.js.map" />
-    <Content Include="Asserts\bootstrap-4.3.1-dist\js\bootstrap.js.map" />
-    <Content Include="Asserts\bootstrap-4.3.1-dist\js\bootstrap.min.js.map" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\css\bootstrap-grid.css.map" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\css\bootstrap-grid.min.css.map" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\css\bootstrap-reboot.css.map" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\css\bootstrap-reboot.min.css.map" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\css\bootstrap.css.map" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\css\bootstrap.min.css.map" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\js\bootstrap.bundle.js.map" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\js\bootstrap.bundle.min.js.map" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\js\bootstrap.js.map" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\js\bootstrap.min.js.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -86,17 +86,17 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Asserts\bootstrap-4.3.1-dist\css\bootstrap-grid.css" />
-    <Content Include="Asserts\bootstrap-4.3.1-dist\css\bootstrap-grid.min.css" />
-    <Content Include="Asserts\bootstrap-4.3.1-dist\css\bootstrap-reboot.css" />
-    <Content Include="Asserts\bootstrap-4.3.1-dist\css\bootstrap-reboot.min.css" />
-    <Content Include="Asserts\bootstrap-4.3.1-dist\css\bootstrap.css" />
-    <Content Include="Asserts\bootstrap-4.3.1-dist\css\bootstrap.min.css" />
-    <Content Include="Asserts\bootstrap-4.3.1-dist\js\bootstrap.bundle.js" />
-    <Content Include="Asserts\bootstrap-4.3.1-dist\js\bootstrap.bundle.min.js" />
-    <Content Include="Asserts\bootstrap-4.3.1-dist\js\bootstrap.js" />
-    <Content Include="Asserts\bootstrap-4.3.1-dist\js\bootstrap.min.js" />
-    <Content Include="Asserts\global\jquery-3.6.0.js" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\css\bootstrap-grid.css" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\css\bootstrap-grid.min.css" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\css\bootstrap-reboot.css" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\css\bootstrap-reboot.min.css" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\css\bootstrap.css" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\css\bootstrap.min.css" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\js\bootstrap.bundle.js" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\js\bootstrap.bundle.min.js" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\js\bootstrap.js" />
+    <Content Include="Assets\bootstrap-4.3.1-dist\js\bootstrap.min.js" />
+    <Content Include="Assets\global\jquery-3.6.0.js" />
     <Content Include="Employee\Registration.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
