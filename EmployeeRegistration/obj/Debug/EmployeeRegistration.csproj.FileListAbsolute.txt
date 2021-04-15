@@ -1,40 +1,22 @@
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\bin\roslyn\csc.exe
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\bin\roslyn\Microsoft.CodeAnalysis.dll
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\bin\roslyn\Microsoft.CSharp.Core.targets
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\bin\roslyn\Microsoft.VisualBasic.Core.targets
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\bin\roslyn\System.Collections.Immutable.dll
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\bin\roslyn\System.Reflection.Metadata.dll
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\bin\roslyn\vbc.exe
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\bin\roslyn\VBCSCompiler.exe
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\bin\roslyn\VBCSCompiler.exe.config
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\bin\EmployeeRegistration.dll.config
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\bin\EmployeeRegistration.dll
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\bin\EmployeeRegistration.pdb
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\obj\Debug\EmployeeRegistration.csprojResolveAssemblyReference.cache
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\obj\Debug\EmployeeRegistration.dll
-c:\users\madhankumar\documents\visual studio 2015\Projects\EmployeeRegistration\EmployeeRegistration\obj\Debug\EmployeeRegistration.pdb
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\bin\roslyn\csc.exe
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\bin\roslyn\System.Collections.Immutable.dll
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\bin\roslyn\System.Reflection.Metadata.dll
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\bin\roslyn\vbc.exe
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\bin\roslyn\VBCSCompiler.exe
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\bin\roslyn\VBCSCompiler.exe.config
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\bin\EmployeeRegistration.dll.config
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\bin\EmployeeRegistration.dll
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\bin\EmployeeRegistration.pdb
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\obj\Debug\EmployeeRegistration.csprojResolveAssemblyReference.cache
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\obj\Debug\EmployeeRegistration.dll
-D:\asp.net\EmployeeRegistration\EmployeeRegistration\obj\Debug\EmployeeRegistration.pdb
+D:\asp.net reference\Registration\EmployeeRegistration\obj\Debug\EmployeeRegistration.csprojAssemblyReference.cache
+D:\asp.net reference\Registration\EmployeeRegistration\obj\Debug\EmployeeRegistration.csproj.CoreCompileInputs.cache
+D:\asp.net reference\Registration\EmployeeRegistration\obj\Debug\EmployeeRegistration.dll
+D:\asp.net reference\Registration\EmployeeRegistration\obj\Debug\EmployeeRegistration.pdb
+D:\asp.net reference\Registration\EmployeeRegistration\bin\roslyn\csc.exe
+D:\asp.net reference\Registration\EmployeeRegistration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\asp.net reference\Registration\EmployeeRegistration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\asp.net reference\Registration\EmployeeRegistration\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\asp.net reference\Registration\EmployeeRegistration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\asp.net reference\Registration\EmployeeRegistration\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\asp.net reference\Registration\EmployeeRegistration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\asp.net reference\Registration\EmployeeRegistration\bin\roslyn\System.Collections.Immutable.dll
+D:\asp.net reference\Registration\EmployeeRegistration\bin\roslyn\System.Reflection.Metadata.dll
+D:\asp.net reference\Registration\EmployeeRegistration\bin\roslyn\vbc.exe
+D:\asp.net reference\Registration\EmployeeRegistration\bin\roslyn\VBCSCompiler.exe
+D:\asp.net reference\Registration\EmployeeRegistration\bin\roslyn\VBCSCompiler.exe.config
+D:\asp.net reference\Registration\EmployeeRegistration\bin\EmployeeRegistration.dll.config
+D:\asp.net reference\Registration\EmployeeRegistration\bin\EmployeeRegistration.dll
+D:\asp.net reference\Registration\EmployeeRegistration\bin\EmployeeRegistration.pdb
+D:\asp.net reference\Registration\EmployeeRegistration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\asp.net reference\Registration\EmployeeRegistration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\asp.net reference\Registration\EmployeeRegistration\obj\Debug\EmployeeRegistration.csproj.CopyComplete
